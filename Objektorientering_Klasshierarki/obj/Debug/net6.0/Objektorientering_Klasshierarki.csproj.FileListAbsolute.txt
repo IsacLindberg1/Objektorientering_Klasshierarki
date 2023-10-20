@@ -1,0 +1,14 @@
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\bin\Debug\net6.0\Objektorientering_Klasshierarki.exe
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\bin\Debug\net6.0\Objektorientering_Klasshierarki.deps.json
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\bin\Debug\net6.0\Objektorientering_Klasshierarki.runtimeconfig.json
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\bin\Debug\net6.0\Objektorientering_Klasshierarki.dll
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\bin\Debug\net6.0\Objektorientering_Klasshierarki.pdb
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\obj\Debug\net6.0\Objektorientering_Klasshierarki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\obj\Debug\net6.0\Objektorientering_Klasshierarki.AssemblyInfoInputs.cache
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\obj\Debug\net6.0\Objektorientering_Klasshierarki.AssemblyInfo.cs
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\obj\Debug\net6.0\Objektorientering_Klasshierarki.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\obj\Debug\net6.0\Objektorientering_Klasshierarki.dll
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\obj\Debug\net6.0\refint\Objektorientering_Klasshierarki.dll
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\obj\Debug\net6.0\Objektorientering_Klasshierarki.pdb
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\obj\Debug\net6.0\Objektorientering_Klasshierarki.genruntimeconfig.cache
+C:\Users\Elev\source\repos\Objektorientering_Klasshierarki\Objektorientering_Klasshierarki\obj\Debug\net6.0\ref\Objektorientering_Klasshierarki.dll
